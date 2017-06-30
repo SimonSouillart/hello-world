@@ -1,3 +1,3 @@
 # hello-world
-What i do : présentation de Hays It Services
+What i do : working at Hays It Services
 A la recherche du codeur fou
